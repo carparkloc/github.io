@@ -17,7 +17,6 @@ const carparkLocations = {
     "O": "https://maps.app.goo.gl/NDVCuhbRZ5C7c1e58",
     "P": "https://maps.app.goo.gl/HLj7TSkcxmwD3g2Z7",
     "V": "https://maps.app.goo.gl/Lq1zuDnovC252gbP8",
-    //"Q": "https://maps.app.goo.gl/qDS9jqwvk5L76dWk7",  // old carpark Q link: "https://maps.app.goo.gl/qDS9jqwvk5L76dWk7"
     "Q": "https://maps.app.goo.gl/Q4F1Xfaym6B1E9UQ6",
     "Leaders Square": "https://maps.app.goo.gl/VwWLogWQUdrxKC1u8"
 };
@@ -41,7 +40,6 @@ const coordinates = {
     "O": "1.335804259260044, 103.67252779999995",
     "P": "1.333608418517624, 103.67297287055223",
     "V": "1.3311651865200362, 103.67336289362099",
-    //"Q": "1.334527, 103.671412", // old carpark Q coords: "1.334527, 103.671412"
     "Q": "1.336177, 103.669708",
     "Leaders Square": "1.3324676145042336, 103.672638233269"
 };
