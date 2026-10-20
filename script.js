@@ -3,6 +3,7 @@ const carparkLocations = {
     "A1": "https://maps.app.goo.gl/EGUosYtJte2wbwwA8",
     "B1": "https://maps.app.goo.gl/jsnq1kouoooWW2dS6",
     "B2": "https://maps.app.goo.gl/mYtD9eR7Cc3p63fW6",
+    "B4": "https://maps.app.goo.gl/DPvdLqzudsD4469q8",
     "C": "https://maps.app.goo.gl/12vxik8dYGHKibr36",
     "D": "https://maps.app.goo.gl/PYEdTyL3V6hrZ2PL8",
     "E": "https://maps.app.goo.gl/dAX6vmtDkabTHG6u7",
@@ -27,6 +28,7 @@ const coordinates = {
     "A1": `1.333746, 103.669228`,
     "B1": `1.3337710603079413, 103.67064068036701`,
     "B2": `1.3346744713952527, 103.67022414233425`,
+    "B4": `1.3344714364800765, 103.66943027268735
     "C": `1.3355244960217811, 103.67091778299144`,
     "D": `1.3340264592590654, 103.67119507055219`,
     "E": `1.3322208592580989, 103.67499932944773`,
