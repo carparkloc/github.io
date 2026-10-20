@@ -3,7 +3,7 @@ const carparkLocations = {
     "A1": "https://maps.app.goo.gl/EGUosYtJte2wbwwA8",
     "B1": "https://maps.app.goo.gl/jsnq1kouoooWW2dS6",
     "B2": "https://maps.app.goo.gl/mYtD9eR7Cc3p63fW6",
-    "B4": "https://maps.app.goo.gl/DPvdLqzudsD4469q8",
+    "B4": "https://maps.app.goo.gl/aipz7Run9qLT6Uhs5", 
     "C": "https://maps.app.goo.gl/12vxik8dYGHKibr36",
     "D": "https://maps.app.goo.gl/PYEdTyL3V6hrZ2PL8",
     "E": "https://maps.app.goo.gl/dAX6vmtDkabTHG6u7",
